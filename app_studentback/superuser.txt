@@ -1,0 +1,7 @@
+username:admin
+Email:admin@gmail.com
+psw:admin
+
+pour le front:npx expo start
+et pour le backend:python manage.py runserver 0.0.0.0:8000
+==> dans loginScreen (front) ligne 21
